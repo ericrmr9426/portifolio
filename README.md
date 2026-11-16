@@ -128,6 +128,8 @@ Foram adicionados ajustes específicos em CSS para controlar dimensões, posicio
 
 O objetivo é preservar a legibilidade e a experiência de navegação tanto em computadores quanto em dispositivos móveis.
 
+https://ericrmr9426.github.io/portifolio/
+
 ---
 
 **Desenvolvido por Eric Rodrigues — 2026**  
