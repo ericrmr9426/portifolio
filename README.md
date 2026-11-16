@@ -1,4 +1,4 @@
-# 👨‍💻 Portfólio Profissional — Eric Rodrigues
+# 👨‍💻 Portifólio Profissional — Eric Rodrigues
 
 ## 1. Explicação do funcionamento do projeto
 
